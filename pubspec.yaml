@@ -1,0 +1,45 @@
+name: give_track
+description: Give Track - Real-time contribution tracking app
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.3.1
+  go_router: ^17.1.0
+  flutter_form_builder: ^10.3.0
+  form_builder_validators: ^11.3.0
+  form_builder_extra_fields: ^12.2.0
+  intl: ^0.20.0
+  fl_chart: ^1.2.0
+  firebase_core: ^4.7.0
+  google_sign_in: ^7.2.0
+  shared_preferences: ^2.5.5
+  cupertino_icons: ^1.0.9
+  equatable: ^2.0.8
+  dartz: ^0.10.1
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.11.0
+  shimmer: ^3.0.0
+  flutter_slidable: ^4.0.3
+  google_fonts: ^8.0.2
+  firebase_auth: ^6.4.0
+  cloud_firestore: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.15
+  freezed: ^3.2.5
+  # json_serializable: ^6.13.0  riverpod_generator: ^4.0.3
+  go_router_builder: ^4.3.0
+  # custom_lint: ^0.8.1
+  riverpod_lint: ^3.1.3
+
+flutter:
+  uses-material-design: true
