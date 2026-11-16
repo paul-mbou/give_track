@@ -1,5 +1,8 @@
 # Give Track
 
+![Give Track](docs/portfolio/cover.png)
+
+
 A real-time mobile application for tracking and managing contributions from **contributors** in community, educational, and organizational projects.
 
 ## Features
