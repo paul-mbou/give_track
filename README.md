@@ -1,6 +1,10 @@
 # Give Track
 
-![Give Track](docs/portfolio/cover.png)
+<p>
+  <img src="docs/portfolio/login.png" width="220" alt="Give Track sign in" />
+</p>
+
+Captured on an Android emulator from the debug build. Projects, contributions, and the dashboard open after sign-in, so they are not shown here.
 
 
 A real-time mobile application for tracking and managing contributions from **contributors** in community, educational, and organizational projects.
